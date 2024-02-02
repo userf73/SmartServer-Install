@@ -35,4 +35,4 @@ mysql -u root < '/root/MariaTop_Comm.txt'
 ufw allow 80
 
 # Tomcat Start
-nohup /root/SmartServer/WAS/bin/catalina.sh run &
+/startup.sh
