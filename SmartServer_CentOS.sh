@@ -40,4 +40,4 @@ firewall-cmd --permanent --add-port=80/tcp
 firewall-cmd --reload
 
 # Tomcat Start
-nohup /root/SmartServer/WAS/bin/catalina.sh run &
+/startup.sh
