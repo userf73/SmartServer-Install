@@ -2,7 +2,7 @@
 
 
 #SmartServer Download
-wget  http://www.processq.net/Download/Component/SmartServer.zip
+wget http://www.processq.net/Download/Component/SmartServer.zip
 
 #MariaDB Create Database SQL
 wget http://www.processq.net/Download/Component/MariaTop_Comm.txt
